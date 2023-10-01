@@ -1,0 +1,3 @@
+- 👋 Olá, mundo! Sou o Paulo Henrique Demetrio
+- 👀 Me interesso por front-end e back-end
+- 🌱 Atualmente, estudando a linguagem Python
